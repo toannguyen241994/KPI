@@ -1,0 +1,117 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": "b085a415e1c2e4d2ab90145b9efb464505a71eb7"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "WebHost.Customization/1.0.0": {
+        "dependencies": {
+          "Microsoft.NETCore.App": "2.1.1",
+          "Polly": "6.0.1"
+        },
+        "runtime": {
+          "WebHost.Customization.dll": {}
+        }
+      },
+      "Microsoft.NETCore.App/2.1.1": {
+        "dependencies": {
+          "Microsoft.NETCore.DotNetHostPolicy": "2.1.1",
+          "Microsoft.NETCore.Platforms": "2.1.0",
+          "Microsoft.NETCore.Targets": "2.0.0",
+          "NETStandard.Library": "2.0.3"
+        }
+      },
+      "Microsoft.NETCore.DotNetAppHost/2.1.1": {},
+      "Microsoft.NETCore.DotNetHostPolicy/2.1.1": {
+        "dependencies": {
+          "Microsoft.NETCore.DotNetHostResolver": "2.1.1"
+        }
+      },
+      "Microsoft.NETCore.DotNetHostResolver/2.1.1": {
+        "dependencies": {
+          "Microsoft.NETCore.DotNetAppHost": "2.1.1"
+        }
+      },
+      "Microsoft.NETCore.Platforms/2.1.0": {},
+      "Microsoft.NETCore.Targets/2.0.0": {},
+      "NETStandard.Library/2.0.3": {
+        "dependencies": {
+          "Microsoft.NETCore.Platforms": "2.1.0"
+        }
+      },
+      "Polly/6.0.1": {
+        "runtime": {
+          "lib/netstandard2.0/Polly.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.1.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WebHost.Customization/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.NETCore.App/2.1.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-bM8hMh+baNhWB04A7dRV8J/rTmaXDT3V8YYQPmggPzco4BroEmx7HDJjWG8Bt+4/yoMIr4gGIJ+GwWtraZAC2g==",
+      "path": "microsoft.netcore.app/2.1.1",
+      "hashPath": "microsoft.netcore.app.2.1.1.nupkg.sha512"
+    },
+    "Microsoft.NETCore.DotNetAppHost/2.1.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-iU5/YEf9cQmnv2NUVEKV2T4A8RDAnalUwjwzWkwaBNlcB8eDQZrI3F5yVWrYe13AFDxBnmoZcLdTl7w/po+vaw==",
+      "path": "microsoft.netcore.dotnetapphost/2.1.1",
+      "hashPath": "microsoft.netcore.dotnetapphost.2.1.1.nupkg.sha512"
+    },
+    "Microsoft.NETCore.DotNetHostPolicy/2.1.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-I3O5ShJgdJniNS5ztFBT1ZQ+x7fVqRnTh4n3HEB1b8X7TAMD6cyvHUIKRmBgtJaLhpcutjSNB6nY6GqSKH9tjg==",
+      "path": "microsoft.netcore.dotnethostpolicy/2.1.1",
+      "hashPath": "microsoft.netcore.dotnethostpolicy.2.1.1.nupkg.sha512"
+    },
+    "Microsoft.NETCore.DotNetHostResolver/2.1.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-jBEHld3J9upOQGxPDAzC6Fq27JEPggLQZMTCjUuPjGDY+6pQ4HSJU1ys+51xktw9C5eP3Om/jvoMl2WpybsGTw==",
+      "path": "microsoft.netcore.dotnethostresolver/2.1.1",
+      "hashPath": "microsoft.netcore.dotnethostresolver.2.1.1.nupkg.sha512"
+    },
+    "Microsoft.NETCore.Platforms/2.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-aSTPL94NloSiQVL5Len8wbjFKOnoAX/vOh3s3DF6g3c7GUUMLCDvnBhmA72M2iN2AedyA8hpr7m89kzSAKUnJQ==",
+      "path": "microsoft.netcore.platforms/2.1.0",
+      "hashPath": "microsoft.netcore.platforms.2.1.0.nupkg.sha512"
+    },
+    "Microsoft.NETCore.Targets/2.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-odP/tJj1z6GylFpNo7pMtbd/xQgTC3Ex2If63dRTL38bBNMwsBnJ+RceUIyHdRBC0oik/3NehYT+oECwBhIM3Q==",
+      "path": "microsoft.netcore.targets/2.0.0",
+      "hashPath": "microsoft.netcore.targets.2.0.0.nupkg.sha512"
+    },
+    "NETStandard.Library/2.0.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-st47PosZSHrjECdjeIzZQbzivYBJFv6P2nv4cj2ypdI204DO+vZ7l5raGMiX4eXMJ53RfOIg+/s4DHVZ54Nu2A==",
+      "path": "netstandard.library/2.0.3",
+      "hashPath": "netstandard.library.2.0.3.nupkg.sha512"
+    },
+    "Polly/6.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-7JsxlfA4i9f2OkvEpqErfU/dq4T8IMMJDI0oV2LXfs1YBSFwVGFD5GZwZ4WZX1JUo1wz6Y1nRnfIVkw0tPXD/Q==",
+      "path": "polly/6.0.1",
+      "hashPath": "polly.6.0.1.nupkg.sha512"
+    }
+  }
+}

@@ -1,0 +1,14 @@
+C:\Users\toannguyen\Project\KPI\bluecore-master\bluecore-master\Framework\Framework.Data\bin\Debug\netcoreapp2.1\Framework.Data.deps.json
+C:\Users\toannguyen\Project\KPI\bluecore-master\bluecore-master\Framework\Framework.Data\bin\Debug\netcoreapp2.1\Framework.Data.dll
+C:\Users\toannguyen\Project\KPI\bluecore-master\bluecore-master\Framework\Framework.Data\bin\Debug\netcoreapp2.1\Framework.Data.pdb
+C:\Users\toannguyen\Project\KPI\bluecore-master\bluecore-master\Framework\Framework.Data\bin\Debug\netcoreapp2.1\Framework.Common.dll
+C:\Users\toannguyen\Project\KPI\bluecore-master\bluecore-master\Framework\Framework.Data\bin\Debug\netcoreapp2.1\Framework.Constract.dll
+C:\Users\toannguyen\Project\KPI\bluecore-master\bluecore-master\Framework\Framework.Data\bin\Debug\netcoreapp2.1\Framework.Common.pdb
+C:\Users\toannguyen\Project\KPI\bluecore-master\bluecore-master\Framework\Framework.Data\bin\Debug\netcoreapp2.1\Framework.Constract.pdb
+C:\Users\toannguyen\Project\KPI\bluecore-master\bluecore-master\Framework\Framework.Data\obj\Debug\netcoreapp2.1\Framework.Data.csprojAssemblyReference.cache
+C:\Users\toannguyen\Project\KPI\bluecore-master\bluecore-master\Framework\Framework.Data\obj\Debug\netcoreapp2.1\Framework.Data.csproj.CoreCompileInputs.cache
+C:\Users\toannguyen\Project\KPI\bluecore-master\bluecore-master\Framework\Framework.Data\obj\Debug\netcoreapp2.1\Framework.Data.AssemblyInfoInputs.cache
+C:\Users\toannguyen\Project\KPI\bluecore-master\bluecore-master\Framework\Framework.Data\obj\Debug\netcoreapp2.1\Framework.Data.AssemblyInfo.cs
+C:\Users\toannguyen\Project\KPI\bluecore-master\bluecore-master\Framework\Framework.Data\obj\Debug\netcoreapp2.1\Framework.Data.csproj.CopyComplete
+C:\Users\toannguyen\Project\KPI\bluecore-master\bluecore-master\Framework\Framework.Data\obj\Debug\netcoreapp2.1\Framework.Data.dll
+C:\Users\toannguyen\Project\KPI\bluecore-master\bluecore-master\Framework\Framework.Data\obj\Debug\netcoreapp2.1\Framework.Data.pdb

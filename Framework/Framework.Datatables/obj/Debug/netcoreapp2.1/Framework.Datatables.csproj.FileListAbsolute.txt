@@ -1,0 +1,14 @@
+C:\Users\toannguyen\Project\KPI\bluecore-master\bluecore-master\Framework\Framework.Datatables\bin\Debug\netcoreapp2.1\Framework.Datatables.deps.json
+C:\Users\toannguyen\Project\KPI\bluecore-master\bluecore-master\Framework\Framework.Datatables\bin\Debug\netcoreapp2.1\Framework.Datatables.dll
+C:\Users\toannguyen\Project\KPI\bluecore-master\bluecore-master\Framework\Framework.Datatables\bin\Debug\netcoreapp2.1\Framework.Datatables.pdb
+C:\Users\toannguyen\Project\KPI\bluecore-master\bluecore-master\Framework\Framework.Datatables\bin\Debug\netcoreapp2.1\Framework.Common.dll
+C:\Users\toannguyen\Project\KPI\bluecore-master\bluecore-master\Framework\Framework.Datatables\bin\Debug\netcoreapp2.1\Framework.Constract.dll
+C:\Users\toannguyen\Project\KPI\bluecore-master\bluecore-master\Framework\Framework.Datatables\bin\Debug\netcoreapp2.1\Framework.Common.pdb
+C:\Users\toannguyen\Project\KPI\bluecore-master\bluecore-master\Framework\Framework.Datatables\bin\Debug\netcoreapp2.1\Framework.Constract.pdb
+C:\Users\toannguyen\Project\KPI\bluecore-master\bluecore-master\Framework\Framework.Datatables\obj\Debug\netcoreapp2.1\Framework.Datatables.csprojAssemblyReference.cache
+C:\Users\toannguyen\Project\KPI\bluecore-master\bluecore-master\Framework\Framework.Datatables\obj\Debug\netcoreapp2.1\Framework.Datatables.csproj.CoreCompileInputs.cache
+C:\Users\toannguyen\Project\KPI\bluecore-master\bluecore-master\Framework\Framework.Datatables\obj\Debug\netcoreapp2.1\Framework.Datatables.AssemblyInfoInputs.cache
+C:\Users\toannguyen\Project\KPI\bluecore-master\bluecore-master\Framework\Framework.Datatables\obj\Debug\netcoreapp2.1\Framework.Datatables.AssemblyInfo.cs
+C:\Users\toannguyen\Project\KPI\bluecore-master\bluecore-master\Framework\Framework.Datatables\obj\Debug\netcoreapp2.1\Framework.Datatables.csproj.CopyComplete
+C:\Users\toannguyen\Project\KPI\bluecore-master\bluecore-master\Framework\Framework.Datatables\obj\Debug\netcoreapp2.1\Framework.Datatables.dll
+C:\Users\toannguyen\Project\KPI\bluecore-master\bluecore-master\Framework\Framework.Datatables\obj\Debug\netcoreapp2.1\Framework.Datatables.pdb

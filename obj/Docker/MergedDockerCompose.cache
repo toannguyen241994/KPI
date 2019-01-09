@@ -1,0 +1,28 @@
+networks:
+  default:
+    external:
+      name: nat
+services:
+  blue.api:
+    build:
+      context: C:\Users\toannguyen\Project\KPI\bluecore-master\bluecore-master\BLue.Api
+      dockerfile: Dockerfile
+    depends_on:
+    - sql.data
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+    image: blueapi
+    ports:
+    - target: 80
+  blue.identityserver:
+    build:
+      context: C:\Users\toannguyen\Project\KPI\bluecore-master\bluecore-master\Blue.IdentityServer
+      dockerfile: Dockerfile
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+    image: blueidentityserver
+    ports:
+    - target: 80
+  sql.data:
+    image: microsoft/mssql-server-linux:2017-latest
+version: '3.4'

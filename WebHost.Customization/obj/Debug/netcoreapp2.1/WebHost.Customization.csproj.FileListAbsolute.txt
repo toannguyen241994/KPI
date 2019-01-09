@@ -1,0 +1,11 @@
+C:\Users\toannguyen\Project\KPI\bluecore-master\bluecore-master\WebHost.Customization\bin\Debug\netcoreapp2.1\WebHost.Customization.deps.json
+C:\Users\toannguyen\Project\KPI\bluecore-master\bluecore-master\WebHost.Customization\bin\Debug\netcoreapp2.1\WebHost.Customization.runtimeconfig.json
+C:\Users\toannguyen\Project\KPI\bluecore-master\bluecore-master\WebHost.Customization\bin\Debug\netcoreapp2.1\WebHost.Customization.runtimeconfig.dev.json
+C:\Users\toannguyen\Project\KPI\bluecore-master\bluecore-master\WebHost.Customization\bin\Debug\netcoreapp2.1\WebHost.Customization.dll
+C:\Users\toannguyen\Project\KPI\bluecore-master\bluecore-master\WebHost.Customization\bin\Debug\netcoreapp2.1\WebHost.Customization.pdb
+C:\Users\toannguyen\Project\KPI\bluecore-master\bluecore-master\WebHost.Customization\obj\Debug\netcoreapp2.1\WebHost.Customization.csprojAssemblyReference.cache
+C:\Users\toannguyen\Project\KPI\bluecore-master\bluecore-master\WebHost.Customization\obj\Debug\netcoreapp2.1\WebHost.Customization.csproj.CoreCompileInputs.cache
+C:\Users\toannguyen\Project\KPI\bluecore-master\bluecore-master\WebHost.Customization\obj\Debug\netcoreapp2.1\WebHost.Customization.AssemblyInfoInputs.cache
+C:\Users\toannguyen\Project\KPI\bluecore-master\bluecore-master\WebHost.Customization\obj\Debug\netcoreapp2.1\WebHost.Customization.AssemblyInfo.cs
+C:\Users\toannguyen\Project\KPI\bluecore-master\bluecore-master\WebHost.Customization\obj\Debug\netcoreapp2.1\WebHost.Customization.dll
+C:\Users\toannguyen\Project\KPI\bluecore-master\bluecore-master\WebHost.Customization\obj\Debug\netcoreapp2.1\WebHost.Customization.pdb

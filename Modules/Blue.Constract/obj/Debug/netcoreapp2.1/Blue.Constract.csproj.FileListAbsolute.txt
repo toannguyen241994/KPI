@@ -1,0 +1,15 @@
+C:\Users\toannguyen\Project\KPI\bluecore-master\bluecore-master\Modules\Blue.Constract\bin\Debug\netcoreapp2.1\Blue.Constract.deps.json
+C:\Users\toannguyen\Project\KPI\bluecore-master\bluecore-master\Modules\Blue.Constract\bin\Debug\netcoreapp2.1\Blue.Constract.dll
+C:\Users\toannguyen\Project\KPI\bluecore-master\bluecore-master\Modules\Blue.Constract\bin\Debug\netcoreapp2.1\Blue.Constract.pdb
+C:\Users\toannguyen\Project\KPI\bluecore-master\bluecore-master\Modules\Blue.Constract\bin\Debug\netcoreapp2.1\Framework.Constract.dll
+C:\Users\toannguyen\Project\KPI\bluecore-master\bluecore-master\Modules\Blue.Constract\bin\Debug\netcoreapp2.1\Framework.Constract.pdb
+C:\Users\toannguyen\Project\KPI\bluecore-master\bluecore-master\Modules\Blue.Constract\obj\Debug\netcoreapp2.1\Blue.Constract.csprojAssemblyReference.cache
+C:\Users\toannguyen\Project\KPI\bluecore-master\bluecore-master\Modules\Blue.Constract\obj\Debug\netcoreapp2.1\Blue.Constract.csproj.CoreCompileInputs.cache
+C:\Users\toannguyen\Project\KPI\bluecore-master\bluecore-master\Modules\Blue.Constract\obj\Debug\netcoreapp2.1\Blue.Constract.AssemblyInfoInputs.cache
+C:\Users\toannguyen\Project\KPI\bluecore-master\bluecore-master\Modules\Blue.Constract\obj\Debug\netcoreapp2.1\Blue.Constract.AssemblyInfo.cs
+C:\Users\toannguyen\Project\KPI\bluecore-master\bluecore-master\Modules\Blue.Constract\obj\Debug\netcoreapp2.1\Blue.Constract.csproj.CopyComplete
+C:\Users\toannguyen\Project\KPI\bluecore-master\bluecore-master\Modules\Blue.Constract\obj\Debug\netcoreapp2.1\Blue.Constract.dll
+C:\Users\toannguyen\Project\KPI\bluecore-master\bluecore-master\Modules\Blue.Constract\obj\Debug\netcoreapp2.1\Blue.Constract.pdb
+C:\Users\toannguyen\Project\KPI\bluecore-master\bluecore-master\Blue.Api\Modules\netcoreapp2.1\Blue.Constract.deps.json
+C:\Users\toannguyen\Project\KPI\bluecore-master\bluecore-master\Blue.Api\Modules\netcoreapp2.1\Blue.Constract.dll
+C:\Users\toannguyen\Project\KPI\bluecore-master\bluecore-master\Blue.Api\Modules\netcoreapp2.1\Blue.Constract.pdb

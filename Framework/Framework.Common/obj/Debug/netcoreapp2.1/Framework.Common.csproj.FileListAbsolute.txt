@@ -1,0 +1,14 @@
+C:\Users\toannguyen\Project\KPI\bluecore-master\bluecore-master\Framework\Framework.Common\bin\Debug\netcoreapp2.1\Framework.Common.deps.json
+C:\Users\toannguyen\Project\KPI\bluecore-master\bluecore-master\Framework\Framework.Common\bin\Debug\netcoreapp2.1\Framework.Common.runtimeconfig.json
+C:\Users\toannguyen\Project\KPI\bluecore-master\bluecore-master\Framework\Framework.Common\bin\Debug\netcoreapp2.1\Framework.Common.runtimeconfig.dev.json
+C:\Users\toannguyen\Project\KPI\bluecore-master\bluecore-master\Framework\Framework.Common\bin\Debug\netcoreapp2.1\Framework.Common.dll
+C:\Users\toannguyen\Project\KPI\bluecore-master\bluecore-master\Framework\Framework.Common\bin\Debug\netcoreapp2.1\Framework.Common.pdb
+C:\Users\toannguyen\Project\KPI\bluecore-master\bluecore-master\Framework\Framework.Common\bin\Debug\netcoreapp2.1\Framework.Constract.dll
+C:\Users\toannguyen\Project\KPI\bluecore-master\bluecore-master\Framework\Framework.Common\bin\Debug\netcoreapp2.1\Framework.Constract.pdb
+C:\Users\toannguyen\Project\KPI\bluecore-master\bluecore-master\Framework\Framework.Common\obj\Debug\netcoreapp2.1\Framework.Common.csprojAssemblyReference.cache
+C:\Users\toannguyen\Project\KPI\bluecore-master\bluecore-master\Framework\Framework.Common\obj\Debug\netcoreapp2.1\Framework.Common.csproj.CoreCompileInputs.cache
+C:\Users\toannguyen\Project\KPI\bluecore-master\bluecore-master\Framework\Framework.Common\obj\Debug\netcoreapp2.1\Framework.Common.AssemblyInfoInputs.cache
+C:\Users\toannguyen\Project\KPI\bluecore-master\bluecore-master\Framework\Framework.Common\obj\Debug\netcoreapp2.1\Framework.Common.AssemblyInfo.cs
+C:\Users\toannguyen\Project\KPI\bluecore-master\bluecore-master\Framework\Framework.Common\obj\Debug\netcoreapp2.1\Framework.Common.csproj.CopyComplete
+C:\Users\toannguyen\Project\KPI\bluecore-master\bluecore-master\Framework\Framework.Common\obj\Debug\netcoreapp2.1\Framework.Common.dll
+C:\Users\toannguyen\Project\KPI\bluecore-master\bluecore-master\Framework\Framework.Common\obj\Debug\netcoreapp2.1\Framework.Common.pdb
